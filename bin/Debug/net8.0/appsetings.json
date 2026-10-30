@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "MongoConnection": "mongodb+srv://guerrero:nSnUAKDib7X3S4Cu@octavioguerrero.ox7wdea.mongodb.net/FilaCeroDB?retryWrites=true&w=majority"
+  }
+}

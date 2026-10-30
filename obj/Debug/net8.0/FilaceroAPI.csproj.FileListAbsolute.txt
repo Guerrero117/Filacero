@@ -1,0 +1,80 @@
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.exe
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.deps.json
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.runtimeconfig.json
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.pdb
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.csproj.AssemblyReference.cache
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.AssemblyInfoInputs.cache
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.AssemblyInfo.cs
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.csproj.CoreCompileInputs.cache
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets\msbuild.FilaceroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.FilaceroAPI.props
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilaceroAPI.props
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilaceroAPI.props
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\scopedcss\bundle\FilaceroAPI.styles.css
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\Filacero.1141461F.Up2Date
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\refint\FilaceroAPI.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.pdb
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.genruntimeconfig.cache
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\obj\Debug\net8.0\ref\FilaceroAPI.dll
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\appsetings.json
+C:\Users\usuario 12\Downloads\Filacero\FilaceroAPI\bin\Debug\net8.0\mainfest.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\appsetings.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\mainfest.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.exe
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.deps.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.runtimeconfig.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\FilaceroAPI.pdb
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.csproj.AssemblyReference.cache
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.AssemblyInfoInputs.cache
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.AssemblyInfo.cs
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets\msbuild.FilaceroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.FilaceroAPI.props
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilaceroAPI.props
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilaceroAPI.props
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\scopedcss\bundle\FilaceroAPI.styles.css
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\Filacero.1141461F.Up2Date
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\refint\FilaceroAPI.dll
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.pdb
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\FilaceroAPI.genruntimeconfig.cache
+C:\Users\Home\Downloads\Filacero\Filacero\FilaceroAPI\obj\Debug\net8.0\ref\FilaceroAPI.dll
